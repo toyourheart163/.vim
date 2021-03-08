@@ -1,0 +1,12 @@
+# vim ignore
+
+.netrwhist
+plugged/
+cache/
+spell/
+undofiles/
+vim-init/
+tmp/
+
+*.swp
+*.swo
